@@ -1,3 +1,4 @@
+{% include_relative README.md %}
 <script src="https://giscus.app/client.js"
         data-repo="pedramktb/pedramktb"
         data-repo-id="R_kgDOOj17WQ"
@@ -14,4 +15,3 @@
         crossorigin="anonymous"
         async>
 </script>
-# Test
